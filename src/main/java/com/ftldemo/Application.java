@@ -1,4 +1,4 @@
-package com.example;
+package com.ftldemo;
 
 import io.micronaut.runtime.Micronaut;
 
